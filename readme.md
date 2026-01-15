@@ -1,5 +1,10 @@
 # Reinforcements Spell
 
+## Languages
+- [English](readme.md) — main
+- [简体中文](readme_cn.md) — Chinese (zh-CN)
+- [Русский](readme_ru.md) — Russian (ru)
+
 ## Description
 **Reinforcements** is a 3rd level Fire spell that replaces the **Disguise** spell in Heroes of Might and Magic III.
 
