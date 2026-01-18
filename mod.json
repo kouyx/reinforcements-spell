@@ -1,13 +1,13 @@
 {
 	"caption": {
-		"Cn_Simp": "",
+		"Cn_Simp": "火线增援魔法",
 		"en_US": "Reinforcements spell",
 		"ru_RU": "Заклинание \"Подкрепления\"",
 		"ua_UA": ""
 	},
 	"description": {
 		"full": {
-			"Cn_Simp": "",
+			"Cn_Simp": "readme_cn.md",
 			"en_US": "readme.md",
 			"ru_RU": "readme_ru.md",
 			"ua_UA": ""
@@ -19,7 +19,7 @@
 			"ua_UA": ""
 		}
 	},
-	"author": "daemon_n, idea: ShimmY, Master of puppets",
+	"author": "daemon_n, idea: ShimmY, Master of puppets, Chinese localization: MoonHeart",
 	"homepage": "https://github.com/ERA-Projects/reinforcements-spell",
 	"icon": {
 		"file": "Reinforcements.ico",
