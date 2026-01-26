@@ -2,7 +2,7 @@
 	"rei": {
 		"dlg": {
 			"header": "Garrisson of the @townName@ town",
-			"text": "Reinforcements",
+			"text": "Select a town to call for reinforcements:",
 			"select": "Open gates for Reinforcements",
 			"error": {
 				"lastStack": "You can't transfer last stack.",
