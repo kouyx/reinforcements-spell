@@ -2,7 +2,7 @@
 	"rei": {
 		"dlg": {
 			"header": "城镇 @townName@ 的驻军",
-			"text": "火线增援",
+			"text": "选择城镇来呼唤援军",
 			"select": "选择兵源城镇",
 			"error": {
 				"lastStack": "不能派遣驻守英雄的最后一队部队。",
